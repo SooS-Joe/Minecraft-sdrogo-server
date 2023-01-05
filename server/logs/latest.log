@@ -1,82 +1,94 @@
-[18:20:09] [ServerMain/INFO]: Building unoptimized datafixer
-[18:20:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:20:13] [ServerMain/INFO]: Loaded 7 recipes
-[18:20:14] [ServerMain/INFO]: Loaded 1179 advancements
-[18:20:16] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[18:20:16] [Server thread/INFO]: Loading properties
-[18:20:16] [Server thread/INFO]: Default game type: SURVIVAL
-[18:20:16] [Server thread/INFO]: Generating keypair
-[18:20:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:20:16] [Server thread/INFO]: Using default channel type
-[18:20:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:20:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:20:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:20:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:20:16] [Server thread/INFO]: Preparing level "world"
-[18:20:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:20:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[18:20:24] [Worker-Main-6/INFO]: Preparing spawn area: 1%
-[18:20:25] [Worker-Main-11/INFO]: Preparing spawn area: 41%
-[18:20:25] [Server thread/INFO]: Time elapsed: 8473 ms
-[18:20:25] [Server thread/INFO]: Done (9.032s)! For help, type "help"
-[18:20:44] [Server thread/INFO]: eXstaSy_HeRo7[/192.168.1.14:55179] logged in with entity id 81 at (2111.6727565087494, 91.0, 1087.1018192698955)
-[18:20:44] [Server thread/INFO]: eXstaSy_HeRo7 joined the game
-[18:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
-[18:25:31] [Server thread/INFO]: [Not Secure] <eXstaSy_HeRo7> 2115 1069
-[18:38:07] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.2587448360993676
-[18:38:16] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.2919881217881084
-[18:42:24] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5582303443725323
-[18:42:43] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.46554391644656334
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.2556224295622087
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.48993733773249915
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5189167748269483
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5344230938285364
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5427202159636408
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5471598405913483
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5495353952130699
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5508065071277315
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5514866537699845
-[18:42:50] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5518505866776877
-[18:42:51] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5520453199204667
-[18:42:51] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5521495177961242
-[18:42:51] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5522052720019701
-[18:42:51] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5522351049658027
-[18:42:51] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5522510679900279
-[18:42:51] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.561809150990257
-[18:42:51] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5798144829423109
-[18:42:51] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.3034540426890544
-[18:43:46] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.2868318089717832
-[18:43:52] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.45019769707141677
-[18:44:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=4095, y=85, z=1301} gt{x=4094, y=84, z=1301}
-[18:45:07] [Server thread/INFO]: eXstaSy_HeRo7 has made the advancement [Who's the Pillager Now?]
-[18:47:43] [Server thread/INFO]: eXstaSy_HeRo7 has completed the challenge [Hero of the Village]
-[18:55:03] [Server thread/INFO]: Villager btp['Villager'/15567, l='ServerLevel[world]', x=4160.28, y=65.00, z=1674.37] died, message: 'Villager suffocated in a wall'
-[19:02:56] [Server thread/INFO]: eXstaSy_HeRo7 lost connection: Disconnected
-[19:02:56] [Server thread/INFO]: eXstaSy_HeRo7 left the game
-[19:03:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[19:03:04] [Server thread/INFO]: Saved the game
-[19:03:06] [Server thread/INFO]: Stopping the server
-[19:03:06] [Server thread/INFO]: Stopping server
-[19:03:06] [Server thread/INFO]: Saving players
-[19:03:06] [Server thread/INFO]: Saving worlds
-[19:03:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:03:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:03:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:03:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:03:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:03:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:03:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:35:53] [ServerMain/INFO]: Building unoptimized datafixer
+[14:35:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:35:58] [ServerMain/INFO]: Loaded 7 recipes
+[14:35:58] [ServerMain/INFO]: Loaded 1179 advancements
+[14:36:00] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[14:36:00] [Server thread/INFO]: Loading properties
+[14:36:00] [Server thread/INFO]: Default game type: SURVIVAL
+[14:36:00] [Server thread/INFO]: Generating keypair
+[14:36:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:36:00] [Server thread/INFO]: Using default channel type
+[14:36:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:36:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:36:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:36:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:36:01] [Server thread/INFO]: Preparing level "world"
+[14:36:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:36:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:36:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:08] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:36:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:36:08] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[14:36:09] [Worker-Main-10/INFO]: Preparing spawn area: 47%
+[14:36:09] [Server thread/INFO]: Time elapsed: 8491 ms
+[14:36:09] [Server thread/INFO]: Done (8.908s)! For help, type "help"
+[15:03:23] [Server thread/INFO]: eXstaSy_HeRo7[/192.168.1.14:60527] logged in with entity id 84 at (4168.000207630904, 65.8500000178814, 1615.989534749545)
+[15:03:23] [Server thread/INFO]: eXstaSy_HeRo7 joined the game
+[15:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2983ms or 59 ticks behind
+[15:07:02] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.41008516728652467
+[15:07:07] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.2898068660431363
+[15:07:11] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.270090172898108
+[15:07:13] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.3123007910267006
+[15:07:13] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.8775867714825836
+[15:07:13] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 1.4659218470833366
+[15:07:13] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5996429469887516
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.6062421489295957
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.6097732503139923
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.611662672262355
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.612673664275917
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.6132146259456022
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.6135040837493762
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.613658966849016
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.6136703172915077
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.6134503714870334
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.6124951154183691
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.6099649687462261
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5575440620050358
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5280033698240914
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5121967344157383
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5037389189592432
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.4992133105388348
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.4967917477042647
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5458617273270647
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5721180950736198
+[15:07:14] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5861673539588992
+[15:07:15] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5936848322767219
+[15:07:15] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5977072850419063
+[15:07:15] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5998596193176127
+[15:07:15] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5898517758259914
+[15:07:15] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5370784788456149
+[15:07:15] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.2869033313818363
+[15:07:17] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.44163378711164114
+[15:07:26] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.4126178150158921
+[15:34:00] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5500866573615895
+[15:36:26] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.29497440273371467
+[15:36:27] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.3641900517061458
+[16:35:33] [Server thread/INFO]: eXstaSy_HeRo7 has made the advancement [Cover Me with Diamonds]
+[16:42:28] [Server thread/INFO]: eXstaSy_HeRo7 has made the advancement [Local Brewery]
+[16:44:12] [Server thread/INFO]: eXstaSy_HeRo7 has reached the goal [Sky's the Limit]
+[16:57:44] [Server thread/INFO]: eXstaSy_HeRo7 lost connection: Disconnected
+[16:57:44] [Server thread/INFO]: eXstaSy_HeRo7 left the game
+[16:58:06] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:58:06] [Server thread/INFO]: Saved the game
+[16:58:08] [Server thread/INFO]: Stopping the server
+[16:58:08] [Server thread/INFO]: Stopping server
+[16:58:08] [Server thread/INFO]: Saving players
+[16:58:08] [Server thread/INFO]: Saving worlds
+[16:58:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:58:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:58:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:58:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:58:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:58:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:58:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

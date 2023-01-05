@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2023-01-05 15:23:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2023-01-02 19:51:03 +0100"
@@ -188,6 +194,18 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2023-01-01 19:20:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2023-01-05 16:35:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-01-05 16:44:12 +0100"
     },
     "done": true
   },
@@ -1160,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2023-01-05 15:27:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2023-01-04 02:28:22 +0100"
@@ -1199,6 +1223,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2023-01-01 17:49:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-01-05 15:39:08 +0100"
     },
     "done": true
   },
@@ -1450,6 +1480,7 @@
       "minecraft:sunflower_plains": "2023-01-02 15:12:20 +0100",
       "minecraft:birch_forest": "2023-01-02 16:13:31 +0100",
       "minecraft:bamboo_jungle": "2023-01-04 18:39:46 +0100",
+      "minecraft:savanna_plateau": "2023-01-05 15:08:21 +0100",
       "minecraft:beach": "2023-01-01 18:14:27 +0100",
       "minecraft:dark_forest": "2023-01-02 16:12:51 +0100",
       "minecraft:sparse_jungle": "2023-01-04 18:39:14 +0100",
@@ -1488,6 +1519,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2023-01-04 02:28:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-01-05 16:42:28 +0100"
     },
     "done": true
   },
@@ -1581,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-01-05 15:37:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2023-01-02 17:00:37 +0100"
@@ -1602,6 +1645,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2023-01-02 19:30:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2023-01-05 15:20:49 +0100"
     },
     "done": true
   },
@@ -2485,6 +2534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-01-05 15:39:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2023-01-01 18:31:06 +0100"
@@ -2722,6 +2777,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-01-03 21:28:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2023-01-05 15:23:10 +0100"
     },
     "done": true
   },
