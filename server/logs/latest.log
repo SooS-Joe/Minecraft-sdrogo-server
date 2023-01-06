@@ -1,612 +1,79 @@
-[17:02:29] [ServerMain/INFO]: Building unoptimized datafixer
-[17:02:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:02:31] [ServerMain/INFO]: Loaded 7 recipes
-[17:02:32] [ServerMain/INFO]: Loaded 1179 advancements
-[17:02:34] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[17:02:34] [Server thread/INFO]: Loading properties
-[17:02:34] [Server thread/INFO]: Default game type: SURVIVAL
-[17:02:34] [Server thread/INFO]: Generating keypair
-[17:02:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:02:34] [Server thread/INFO]: Using default channel type
-[17:02:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:02:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:02:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:02:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:02:34] [Server thread/INFO]: Preparing level "world"
-[17:02:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:02:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:02:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:02:37] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[17:02:37] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[17:02:37] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[17:02:37] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[17:02:37] [Worker-Main-8/INFO]: Preparing spawn area: 84%
-[17:02:37] [Server thread/INFO]: Time elapsed: 3078 ms
-[17:02:37] [Server thread/INFO]: Done (3.301s)! For help, type "help"
-[17:03:08] [Server thread/INFO]: SooS_Joe[/192.168.1.43:52385] logged in with entity id 85 at (2108.9352276147256, 91.0, 1088.973349767254)
-[17:03:08] [Server thread/INFO]: SooS_Joe joined the game
-[17:03:13] [Server thread/INFO]: eXstaSy_HeRo7[/87.18.209.86:59393] logged in with entity id 248 at (2108.67499809982, 91.0, 1087.682256611942)
-[17:03:13] [Server thread/INFO]: eXstaSy_HeRo7 joined the game
-[17:03:21] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.2945105991689161
-[17:03:21] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.39106183157991836
-[17:03:21] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.490120213841692
-[17:03:21] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.3410937624289545
-[17:03:23] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.3107737563836963
-[17:04:29] [Server thread/INFO]: SooS_Joe burned to death
-[17:07:12] [Server thread/INFO]: eXstaSy_HeRo7 was slain by SooS_Joe
-[17:16:10] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.3544063771882975
-[17:16:10] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.4545046760385958
-[17:16:10] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 1.1385530824099988
-[17:16:10] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 1.1385530824099988
-[17:16:10] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.26398594032752953
-[17:16:10] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.3742249040983552
-[17:16:47] [Server thread/INFO]: SooS_Joe suffocated in a wall
-[17:20:28] [Server thread/INFO]: SooS_Joe has made the advancement [Enchanter]
-[17:25:34] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:26:46] [Server thread/INFO]: SooS_Joe was slain by Enderman
-[17:26:50] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:29:43] [Server thread/INFO]: SooS_Joe has made the advancement [Remote Getaway]
-[17:34:32] [Server thread/INFO]: SooS_Joe was slain by Enderman
-[17:34:36] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:37:41] [Server thread/INFO]: SooS_Joe hit the ground too hard
-[17:37:59] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:38:39] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:38:39] [Server thread/WARN]: SooS_Joe moved too quickly! 104.18550887064521,9.249187078744683,-67.3745200441648
-[17:38:39] [Server thread/WARN]: SooS_Joe moved too quickly! 104.18550887064521,9.249187078744683,-67.3745200441648
-[17:38:39] [Server thread/WARN]: SooS_Joe moved too quickly! 104.18550887064521,9.249187078744683,-67.3745200441648
-[17:38:39] [Server thread/WARN]: SooS_Joe moved too quickly! 104.18550887064521,9.249187078744683,-67.3745200441648
-[17:38:39] [Server thread/WARN]: SooS_Joe moved too quickly! 104.18550887064521,9.249187078744683,-67.3745200441648
-[17:43:09] [Server thread/INFO]: SooS_Joe fell from a high place
-[17:43:14] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:43:17] [Server thread/INFO]: SooS_Joe fell from a high place
-[17:43:27] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:45:56] [Server thread/INFO]: SooS_Joe fell from a high place
-[17:46:01] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:47:38] [Server thread/INFO]: SooS_Joe fell from a high place
-[17:47:44] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:47:47] [Server thread/INFO]: SooS_Joe fell from a high place
-[17:47:54] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:55:15] [Server thread/INFO]: SooS_Joe was slain by Enderman
-[17:55:20] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[17:57:13] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:01:07] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:01:07] [Server thread/WARN]: SooS_Joe moved too quickly! 820.0868177908806,187.25867218690271,-934.2722665837866
-[18:01:07] [Server thread/WARN]: SooS_Joe moved too quickly! 820.0868177908806,187.25867218690271,-934.2722665837866
-[18:01:07] [Server thread/WARN]: SooS_Joe moved too quickly! 820.0868177908806,187.25867218690271,-934.2722665837866
-[18:01:07] [Server thread/WARN]: SooS_Joe moved too quickly! 820.0868177908806,187.25867218690271,-934.2722665837866
-[18:01:08] [Server thread/INFO]: SooS_Joe fell from a high place
-[18:01:14] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:06:55] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:14:46] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 3280.500000, 58.000000, 1056.500000]
-[18:14:46] [Server thread/WARN]: SooS_Joe moved too quickly! -332.6884490645798,0.0,461.1049529977986
-[18:14:46] [Server thread/WARN]: SooS_Joe moved too quickly! -332.6884490645798,0.0,461.1049529977986
-[18:14:54] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 4528.500000, 62.000000, -895.500000]
-[18:16:40] [Server thread/INFO]: SooS_Joe was slain by Shulker
-[18:16:48] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 3280.500000, 91.000000, 1056.500000]
-[18:16:48] [Server thread/WARN]: SooS_Joe moved too quickly! 1177.0,0.0,-32.0
-[18:16:48] [Server thread/WARN]: SooS_Joe moved too quickly! 1177.0,0.0,-32.0
-[18:16:48] [Server thread/WARN]: SooS_Joe moved too quickly! 1177.0,0.0,-32.0
-[18:16:48] [Server thread/WARN]: SooS_Joe moved too quickly! 1177.0,0.0,-32.0
-[18:16:53] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:16:58] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 3280.500000, 91.000000, 1056.500000]
-[18:17:27] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 4528.500000, 92.000000, -895.500000]
-[18:17:27] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! 1248.199999988079,0.0,-1951.800000011921
-[18:17:28] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! 0.0,-10.806526110008988,0.0
-[18:18:59] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 3280.500000, 95.000000, 1056.500000]
-[18:19:35] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 1861.500000, -8.000000, 1307.500000]
-[18:19:35] [Server thread/WARN]: SooS_Joe moved too quickly! -1419.0,-100.0,251.0
-[18:19:35] [Server thread/WARN]: SooS_Joe moved too quickly! -1419.0,-100.0,251.0
-[18:19:35] [Server thread/WARN]: SooS_Joe moved too quickly! -1419.0,-100.0,251.0
-[18:19:35] [Server thread/WARN]: SooS_Joe moved too quickly! -1419.0,-100.0,251.0
-[18:19:35] [Server thread/WARN]: SooS_Joe moved too quickly! -1419.0,-100.0,251.0
-[18:19:35] [Server thread/WARN]: SooS_Joe moved too quickly! -1419.0,-100.0,251.0
-[18:19:50] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1861.500000, -8.000000, 1307.500000]
-[18:19:53] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 3280.500000, 54.000000, 1056.500000]
-[18:19:53] [Server thread/WARN]: SooS_Joe moved too quickly! 3187.199999988079,0.0,1056.0005264733848
-[18:19:53] [Server thread/WARN]: SooS_Joe moved too quickly! 3187.199999988079,0.0,1056.0005264733848
-[18:20:29] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1312.500000, 63.000000, -255.500000]
-[18:20:29] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! 691.1641415494499,0.0,-1063.39885798048
-[18:21:08] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:21:10] [Server thread/INFO]: eXstaSy_HeRo7 fell from a high place
-[18:21:16] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:21:19] [Server thread/INFO]: eXstaSy_HeRo7 fell from a high place
-[18:21:24] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:21:26] [Server thread/INFO]: eXstaSy_HeRo7 fell from a high place
-[18:21:27] [Server thread/INFO]: SooS_Joe fell from a high place
-[18:21:35] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 1861.500000, -8.000000, 1307.500000]
-[18:21:36] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1861.500000, -8.000000, 1307.500000]
-[18:22:19] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 1861.500000, -8.000000, 1307.500000]
-[18:22:19] [Server thread/WARN]: SooS_Joe moved too quickly! 1782.7709038370288,-67.0,1286.104470232119
-[18:22:19] [Server thread/WARN]: SooS_Joe moved too quickly! 1782.7709038370288,-67.0,1286.104470232119
-[18:22:19] [Server thread/WARN]: SooS_Joe moved too quickly! 1782.7709038370288,-67.0,1286.104470232119
-[18:22:19] [Server thread/WARN]: SooS_Joe moved too quickly! 1782.7709038370288,-67.0,1286.104470232119
-[18:22:19] [Server thread/WARN]: SooS_Joe moved too quickly! 1782.7709038370288,-67.0,1286.104470232119
-[18:22:19] [Server thread/WARN]: SooS_Joe moved too quickly! 1782.7709038370288,-67.0,1286.104470232119
-[18:22:23] [Server thread/INFO]: SooS_Joe fell out of the world
-[18:22:36] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1312.500000, 63.000000, -255.500000]
-[18:22:39] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:22:49] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 3280.500000, 60.000000, 1056.500000]
-[18:22:49] [Server thread/WARN]: SooS_Joe moved too quickly! 1961.2241624158157,0.0,1312.2373930168972
-[18:22:52] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:25:47] [Server thread/INFO]: SooS_Joe fell off a ladder
-[18:25:54] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:26:01] [Server thread/INFO]: SooS_Joe has reached the goal [Sky's the Limit]
-[18:27:07] [Server thread/INFO]: SooS_Joe fell from a high place
-[18:27:13] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:28:14] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
-[18:28:51] [Server thread/INFO]: SooS_Joe fell out of the world
-[18:33:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2087, y=87, z=1066} gt{x=2088, y=87, z=1065}
-[18:38:30] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2085, y=84, z=1067} gt{x=2086, y=83, z=1065}
-[18:38:30] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2086, y=84, z=1067} gt{x=2085, y=85, z=1067}
-[18:38:30] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2086, y=84, z=1067} gt{x=2085, y=85, z=1067}
-[18:38:30] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2086, y=84, z=1067} gt{x=2085, y=85, z=1067}
-[18:38:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2086, y=84, z=1067} gt{x=2085, y=85, z=1067}
-[18:38:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2086, y=84, z=1067} gt{x=2085, y=85, z=1067}
-[18:38:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2086, y=84, z=1067} gt{x=2085, y=85, z=1067}
-[18:38:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2086, y=84, z=1067} gt{x=2085, y=85, z=1067}
-[18:38:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2086, y=84, z=1067} gt{x=2085, y=85, z=1067}
-[18:38:31] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2086, y=84, z=1067} gt{x=2085, y=85, z=1067}
-[18:51:24] [Server thread/INFO]: SooS_Joe fell from a high place
-[18:51:47] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:51:47] [Server thread/WARN]: SooS_Joe moved too quickly! -23.788824317393846,33.0,-8.907932772058984
-[18:51:47] [Server thread/WARN]: SooS_Joe moved too quickly! -23.788824317393846,33.0,-8.907932772058984
-[18:51:47] [Server thread/WARN]: SooS_Joe moved too quickly! -23.788824317393846,33.0,-8.907932772058984
-[18:51:47] [Server thread/WARN]: SooS_Joe moved too quickly! -23.788824317393846,33.0,-8.907932772058984
-[18:51:53] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:52:28] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:52:28] [Server thread/WARN]: SooS_Joe moved too quickly! -23.000941484800933,33.0,-0.7920919603930088
-[18:52:28] [Server thread/WARN]: SooS_Joe moved too quickly! -23.000941484800933,33.0,-0.7920919603930088
-[18:52:31] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:52:31] [Server thread/WARN]: SooS_Joe moved too quickly! -11.433828847924815,8.421599998474122,1.2610942725987115
-[18:52:31] [Server thread/WARN]: SooS_Joe moved too quickly! -11.433828847924815,8.421599998474122,1.2610942725987115
-[18:52:59] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:52:59] [Server thread/WARN]: SooS_Joe moved too quickly! -8.069282074846797,26.0,0.24105645246845597
-[18:52:59] [Server thread/WARN]: SooS_Joe moved too quickly! -8.069282074846797,26.0,0.24105645246845597
-[18:52:59] [Server thread/WARN]: SooS_Joe moved too quickly! -8.069282074846797,26.0,0.24105645246845597
-[18:52:59] [Server thread/WARN]: SooS_Joe moved too quickly! -8.069282074846797,26.0,0.24105645246845597
-[18:53:56] [Server thread/INFO]: SooS_Joe fell from a high place
-[18:53:57] [Server thread/WARN]: SooS_Joe moved too quickly! -28.13664589787777,22.0,4.199999988079071
-[18:53:58] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[18:53:58] [Server thread/WARN]: SooS_Joe moved too quickly! 15.000905686572423,6.024424088213692,3.103848222150873
-[18:54:21] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:21] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -3.648443441397376,9.166109260938214,-2.776831817630182
-[18:54:22] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:22] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:23] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:23] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:24] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:24] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:25] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:25] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:26] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:27] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:27] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:28] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:28] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:29] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:29] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:30] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:30] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:31] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:31] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:31] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:32] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:32] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:32] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:32] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:33] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:33] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:33] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:33] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:35] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:36] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:36] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:37] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[18:54:59] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.37577259707904886
-[18:54:59] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.4852854990249398
-[18:54:59] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.5195161652977731
-[18:55:00] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.4027711503590581
-[18:57:12] [Server thread/INFO]: SooS_Joe was slain by eXstaSy_HeRo7
-[19:06:05] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[19:06:05] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! 209.93456226371154,-105.5,91.64960632883049
-[19:10:17] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[19:12:55] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[19:12:55] [Server thread/WARN]: SooS_Joe moved too quickly! -16.993047911199028,-25.768476202412984,34.99643728960746
-[19:12:55] [Server thread/WARN]: SooS_Joe moved too quickly! -16.993047911199028,-25.768476202412984,34.99643728960746
-[19:12:55] [Server thread/WARN]: SooS_Joe moved too quickly! -16.993047911199028,-25.768476202412984,34.99643728960746
-[19:13:52] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[19:22:07] [Server thread/INFO]: SooS_Joe was shot by Skeleton
-[19:22:10] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[19:22:10] [Server thread/WARN]: SooS_Joe moved too quickly! 398.1970044464724,-136.0,252.4607170848842
-[19:22:10] [Server thread/WARN]: SooS_Joe moved too quickly! 398.1970044464724,-136.0,252.4607170848842
-[19:22:10] [Server thread/WARN]: SooS_Joe moved too quickly! 398.1970044464724,-136.0,252.4607170848842
-[19:22:10] [Server thread/WARN]: SooS_Joe moved too quickly! 398.1970044464724,-136.0,252.4607170848842
-[19:22:10] [Server thread/WARN]: SooS_Joe moved too quickly! 398.1970044464724,-136.0,252.4607170848842
-[19:23:10] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[19:33:35] [Server thread/INFO]: SooS_Joe fell from a high place
-[19:35:21] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[19:35:21] [Server thread/WARN]: SooS_Joe moved too quickly! 290.4056907539107,-133.8338907390618,431.59960448071547
-[19:35:21] [Server thread/WARN]: SooS_Joe moved too quickly! 290.4056907539107,-133.8338907390618,431.59960448071547
-[19:35:21] [Server thread/WARN]: SooS_Joe moved too quickly! 290.4056907539107,-133.8338907390618,431.59960448071547
-[19:35:21] [Server thread/WARN]: SooS_Joe moved too quickly! 290.4056907539107,-133.8338907390618,431.59960448071547
-[19:35:21] [Server thread/WARN]: SooS_Joe moved too quickly! 290.4056907539107,-133.8338907390618,431.59960448071547
-[19:35:21] [Server thread/WARN]: SooS_Joe moved too quickly! 290.4056907539107,-133.8338907390618,431.59960448071547
-[19:35:21] [Server thread/WARN]: SooS_Joe moved too quickly! 290.4056907539107,-133.8338907390618,431.59960448071547
-[19:37:18] [Server thread/INFO]: SooS_Joe was slain by Zombie
-[19:37:23] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[19:37:23] [Server thread/WARN]: SooS_Joe moved too quickly! 282.44419915493245,-143.0,437.19999998807907
-[19:37:23] [Server thread/WARN]: SooS_Joe moved too quickly! 282.44419915493245,-143.0,437.19999998807907
-[19:37:23] [Server thread/WARN]: SooS_Joe moved too quickly! 282.44419915493245,-143.0,437.19999998807907
-[19:38:03] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[19:38:26] [Server thread/INFO]: [Not Secure] <eXstaSy_HeRo7> HEROBRINE
-[19:39:15] [Server thread/INFO]: SooS_Joe tried to swim in lava
-[19:39:19] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[19:39:19] [Server thread/WARN]: SooS_Joe moved too quickly! 277.96791898644506,-142.0,427.3068217178827
-[19:39:19] [Server thread/WARN]: SooS_Joe moved too quickly! 277.96791898644506,-142.0,427.3068217178827
-[19:40:11] [Server thread/INFO]: SooS_Joe tried to swim in lava
-[19:40:14] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[19:40:14] [Server thread/WARN]: SooS_Joe moved too quickly! 279.7958688786712,-144.0,432.79894368796727
-[19:40:14] [Server thread/WARN]: SooS_Joe moved too quickly! 279.7958688786712,-144.0,432.79894368796727
-[19:40:14] [Server thread/WARN]: SooS_Joe moved too quickly! 279.7958688786712,-144.0,432.79894368796727
-[19:40:14] [Server thread/WARN]: SooS_Joe moved too quickly! 279.7958688786712,-144.0,432.79894368796727
-[19:40:14] [Server thread/WARN]: SooS_Joe moved too quickly! 279.7958688786712,-144.0,432.79894368796727
-[19:40:14] [Server thread/WARN]: SooS_Joe moved too quickly! 279.7958688786712,-144.0,432.79894368796727
-[19:40:14] [Server thread/WARN]: SooS_Joe moved too quickly! 279.7958688786712,-144.0,432.79894368796727
-[19:40:37] [Server thread/INFO]: eXstaSy_HeRo7 tried to swim in lava
-[19:41:07] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[19:41:07] [Server thread/WARN]: SooS_Joe moved too quickly! -284.5363797516834,144.22166344634763,-430.89788325705354
-[19:41:07] [Server thread/WARN]: SooS_Joe moved too quickly! -284.5363797516834,144.22166344634763,-430.89788325705354
-[19:41:07] [Server thread/WARN]: SooS_Joe moved too quickly! -284.5363797516834,144.22166344634763,-430.89788325705354
-[19:41:11] [Server thread/INFO]: SooS_Joe was slain by eXstaSy_HeRo7
-[19:51:34] [Server thread/INFO]: SooS_Joe tried to swim in lava
-[19:52:10] [Server thread/INFO]: SooS_Joe tried to swim in lava
-[19:54:36] [Server thread/INFO]: SooS_Joe tried to swim in lava
-[19:54:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=276, y=61, z=137}
-[19:54:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=276, y=61, z=137}
-[19:54:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=276, y=61, z=137}
-[19:59:43] [Server thread/INFO]: SooS_Joe tried to swim in lava
-[20:01:16] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[20:01:16] [Server thread/WARN]: SooS_Joe moved too quickly! 130.38189709777294,23.5,68.34461943169435
-[20:01:16] [Server thread/WARN]: SooS_Joe moved too quickly! 130.38189709777294,23.5,68.34461943169435
-[20:01:16] [Server thread/WARN]: SooS_Joe moved too quickly! 130.38189709777294,23.5,68.34461943169435
-[20:01:16] [Server thread/WARN]: SooS_Joe moved too quickly! 130.38189709777294,23.5,68.34461943169435
-[20:01:16] [Server thread/WARN]: SooS_Joe moved too quickly! 130.38189709777294,23.5,68.34461943169435
-[20:01:16] [Server thread/WARN]: SooS_Joe moved too quickly! 130.38189709777294,23.5,68.34461943169435
-[20:01:16] [Server thread/WARN]: SooS_Joe moved too quickly! 130.38189709777294,23.5,68.34461943169435
-[20:01:16] [Server thread/WARN]: SooS_Joe moved too quickly! 130.38189709777294,23.5,68.34461943169435
-[20:04:14] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[20:04:14] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! 18.028131116822465,12.0,-10.125993393866025
-[20:04:14] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! 18.028131116822465,12.0,-10.125993393866025
-[20:04:25] [Server thread/INFO]: SooS_Joe fell from a high place
-[20:04:27] [Server thread/WARN]: SooS_Joe moved too quickly! 16.006284728915716,14.0,1.3628532978889325
-[20:04:30] [Server thread/INFO]: eXstaSy_HeRo7 tried to swim in lava
-[20:04:47] [Server thread/INFO]: eXstaSy_HeRo7 was slain by SooS_Joe
-[20:04:57] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[20:06:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=246, y=50, z=173} gt{x=236, y=57, z=176}
-[20:06:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=246, y=50, z=173} gt{x=236, y=57, z=176}
-[20:06:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=246, y=50, z=173} gt{x=236, y=57, z=176}
-[20:06:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=246, y=50, z=173} gt{x=236, y=57, z=176}
-[20:06:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=246, y=50, z=173} gt{x=236, y=57, z=176}
-[20:06:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=246, y=50, z=173} gt{x=236, y=57, z=176}
-[20:06:31] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[20:09:51] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[20:09:51] [Server thread/WARN]: SooS_Joe moved too quickly! 322.7880556669577,32.0,-249.93859718666863
-[20:09:51] [Server thread/WARN]: SooS_Joe moved too quickly! 322.7880556669577,32.0,-249.93859718666863
-[20:09:51] [Server thread/WARN]: SooS_Joe moved too quickly! 322.7880556669577,32.0,-249.93859718666863
-[20:10:29] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.25165692253995076
-[20:10:29] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.36956742455140557
-[20:10:58] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.2681725146589997
-[20:10:58] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.32016597982510575
-[20:10:58] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.615526677473099
-[20:12:38] [Server thread/INFO]: SooS_Joe was burnt to a crisp whilst fighting eXstaSy_HeRo7
-[20:12:43] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[20:12:43] [Server thread/WARN]: SooS_Joe moved too quickly! 2104.080265586043,7.0,1052.9107881075042
-[20:12:57] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.47911054135056474
-[20:12:58] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.32168061778020274
-[20:12:58] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.4363929298469884
-[20:18:10] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[20:19:50] [Server thread/INFO]: [SooS_Joe: Set own game mode to Creative Mode]
-[20:21:31] [Server thread/INFO]: [eXstaSy_HeRo7: Set the time to 13000]
-[20:21:39] [Server thread/INFO]: [eXstaSy_HeRo7: Set the time to 1300]
-[20:21:44] [Server thread/INFO]: [SooS_Joe: Set own game mode to Survival Mode]
-[20:24:01] [Server thread/INFO]: SooS_Joe tried to swim in lava
-[20:25:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=279, y=33, z=215}
-[20:25:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=279, y=33, z=215}
-[20:25:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=279, y=33, z=215}
-[20:25:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=279, y=33, z=215}
-[20:25:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=279, y=33, z=215}
-[20:25:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=236, y=39, z=199} gt{x=236, y=38, z=200}
-[20:25:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=236, y=39, z=199} gt{x=236, y=38, z=200}
-[20:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=243, y=35, z=205} gt{x=242, y=35, z=206}
-[20:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=243, y=35, z=205} gt{x=242, y=35, z=206}
-[20:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=243, y=35, z=205} gt{x=242, y=35, z=206}
-[20:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=243, y=35, z=205} gt{x=242, y=35, z=206}
-[20:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=243, y=35, z=205} gt{x=242, y=35, z=206}
-[20:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=243, y=35, z=205} gt{x=242, y=35, z=206}
-[20:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=243, y=35, z=205} gt{x=242, y=35, z=206}
-[20:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=243, y=35, z=205} gt{x=242, y=35, z=206}
-[20:26:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=243, y=35, z=205} gt{x=242, y=35, z=206}
-[20:26:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=38, z=206} gt{x=238, y=37, z=206}
-[20:26:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=38, z=206} gt{x=238, y=37, z=206}
-[20:26:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=233, y=41, z=206} gt{x=232, y=40, z=207}
-[20:26:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=233, y=41, z=206} gt{x=233, y=39, z=206}
-[20:26:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=233, y=41, z=206} gt{x=233, y=39, z=206}
-[20:26:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=231, y=43, z=207} gt{x=231, y=41, z=207}
-[20:26:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=231, y=43, z=207} gt{x=231, y=41, z=207}
-[20:26:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=232, y=43, z=207} gt{x=231, y=43, z=207}
-[20:26:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=232, y=43, z=207} gt{x=231, y=43, z=207}
-[20:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=227, y=45, z=207} gt{x=228, y=46, z=207}
-[20:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=227, y=45, z=207} gt{x=228, y=46, z=207}
-[20:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=227, y=45, z=207} gt{x=228, y=46, z=207}
-[20:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=227, y=45, z=207} gt{x=228, y=46, z=207}
-[20:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=227, y=45, z=207} gt{x=228, y=46, z=207}
-[20:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=227, y=45, z=207} gt{x=228, y=46, z=207}
-[20:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=227, y=45, z=207} gt{x=228, y=46, z=207}
-[20:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=227, y=45, z=207} gt{x=228, y=46, z=207}
-[20:26:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=227, y=45, z=207} gt{x=228, y=46, z=207}
-[20:26:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=233, y=39, z=213} gt{x=232, y=39, z=213}
-[20:27:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=34, z=213} gt{x=234, y=34, z=213}
-[20:27:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=34, z=213} gt{x=234, y=34, z=213}
-[20:27:39] [Server thread/INFO]: SooS_Joe tried to swim in lava
-[20:28:09] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported SooS_Joe to eXstaSy_HeRo7]
-[20:28:19] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to 1861.500000, -8.000000, 1307.500000]
-[20:28:19] [Server thread/WARN]: SooS_Joe moved too quickly! -283.8776686795177,-76.0,-428.12252000162357
-[20:28:19] [Server thread/WARN]: SooS_Joe moved too quickly! -283.8776686795177,-76.0,-428.12252000162357
-[20:28:19] [Server thread/WARN]: SooS_Joe moved too quickly! -283.8776686795177,-76.0,-428.12252000162357
-[20:28:19] [Server thread/WARN]: SooS_Joe moved too quickly! -283.8776686795177,-76.0,-428.12252000162357
-[20:28:19] [Server thread/WARN]: SooS_Joe moved too quickly! -283.8776686795177,-76.0,-428.12252000162357
-[20:29:28] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.29076011712140826
-[20:29:51] [Server thread/INFO]: SooS_Joe has made the advancement [Hidden in the Depths]
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:31:04] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=239, y=15, z=142} gt{x=231, y=16, z=144}
-[20:33:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=267, y=16, z=170} gt{x=267, y=15, z=169}
-[20:33:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=267, y=16, z=170} gt{x=267, y=15, z=169}
-[20:33:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=267, y=16, z=170} gt{x=267, y=15, z=169}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=279, y=15, z=177} gt{x=280, y=16, z=177}
-[20:34:09] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.263774232816786
-[20:34:09] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.34862603739884435
-[20:36:01] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[20:37:13] [Server thread/INFO]: eXstaSy_HeRo7 has made the advancement [Hidden in the Depths]
-[20:37:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=256, y=14, z=200} gt{x=248, y=15, z=196}
-[20:38:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=240, y=15, z=161} gt{x=238, y=15, z=161}
-[20:38:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=240, y=15, z=161} gt{x=238, y=15, z=161}
-[20:38:35] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=240, y=15, z=161} gt{x=238, y=15, z=161}
-[20:38:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=158} gt{x=263, y=15, z=157}
-[20:38:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=263, y=16, z=160} gt{x=263, y=15, z=159}
-[20:38:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=274, y=15, z=164} gt{x=276, y=15, z=162}
-[20:38:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=275, y=16, z=164} gt{x=276, y=16, z=163}
-[20:38:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=280, y=16, z=166} gt{x=281, y=15, z=167}
-[20:38:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=280, y=16, z=166} gt{x=281, y=15, z=167}
-[20:38:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=280, y=16, z=166} gt{x=281, y=15, z=167}
-[20:38:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=280, y=16, z=166} gt{x=281, y=15, z=167}
-[20:38:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=280, y=16, z=166} gt{x=281, y=15, z=167}
-[20:41:14] [Server thread/INFO]: SooS_Joe tried to swim in lava
-[20:41:24] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=315, y=11, z=167} gt{x=315, y=10, z=168}
-[20:42:26] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[20:42:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=304, y=17, z=168} gt{x=305, y=16, z=168}
-[20:42:39] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=304, y=17, z=168} gt{x=305, y=16, z=168}
-[20:42:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:42:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=306, y=17, z=169} gt{x=305, y=16, z=169}
-[20:43:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=275, y=15, z=205} gt{x=275, y=14, z=205}
-[20:43:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=275, y=15, z=205} gt{x=275, y=14, z=205}
-[20:43:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=275, y=15, z=205} gt{x=275, y=14, z=205}
-[20:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=245, y=15, z=212} gt{x=245, y=16, z=212}
-[20:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=245, y=15, z=212} gt{x=245, y=16, z=212}
-[20:44:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=245, y=15, z=212} gt{x=245, y=16, z=212}
-[20:45:30] [Server thread/INFO]: SooS_Joe suffocated in a wall
-[20:45:51] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[20:47:12] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Creative Mode]
-[20:48:37] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
-[20:52:07] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Creative Mode]
-[20:52:18] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
-[20:53:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=275, y=57, z=138}
-[20:53:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=275, y=57, z=138}
-[20:53:37] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=275, y=57, z=138}
-[20:53:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=275, y=57, z=138}
-[20:53:38] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=275, y=57, z=138}
-[20:59:05] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.25909830124692235
-[20:59:05] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.32185138863724205
-[20:59:05] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.4084321416862622
-[20:59:05] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.44635928138768577
-[20:59:05] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.2879277747110791
-[20:59:24] [Server thread/WARN]: Horse (vehicle of SooS_Joe) moved wrongly! 0.5507770146971325
-[21:01:06] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:05:35] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1861.500000, -8.000000, 1307.500000]
-[21:05:40] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:05:51] [Server thread/INFO]: SooS_Joe was slain by Enderman
-[21:05:53] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:05:53] [Server thread/WARN]: SooS_Joe moved too quickly! -236.88024587754626,-98.2032643993313,224.93885135469986
-[21:05:53] [Server thread/WARN]: SooS_Joe moved too quickly! -236.88024587754626,-98.2032643993313,224.93885135469986
-[21:05:53] [Server thread/WARN]: SooS_Joe moved too quickly! -236.88024587754626,-98.2032643993313,224.93885135469986
-[21:05:53] [Server thread/WARN]: SooS_Joe moved too quickly! -236.88024587754626,-98.2032643993313,224.93885135469986
-[21:05:53] [Server thread/WARN]: SooS_Joe moved too quickly! -236.88024587754626,-98.2032643993313,224.93885135469986
-[21:06:04] [Server thread/WARN]: SooS_Joe moved too quickly! -1768.3917375870026,54.46415937495544,-1307.1551916701683
-[21:07:02] [Server thread/INFO]: SooS_Joe was slain by Enderman
-[21:07:43] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:08:51] [Server thread/INFO]: SooS_Joe was burnt to a crisp whilst fighting eXstaSy_HeRo7
-[21:08:57] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:10:05] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:10:05] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -1.633654324547308,127.10899156357533,-0.5299757710943034
-[21:10:06] [Server thread/INFO]: eXstaSy_HeRo7 fell from a high place
-[21:10:09] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:10:09] [Server thread/INFO]: SooS_Joe fell from a high place
-[21:10:14] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1861.500000, -8.000000, 1307.500000]
-[21:10:14] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -246.23706453286013,-99.0,224.17965590690278
-[21:10:18] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:10:18] [Server thread/WARN]: SooS_Joe moved too quickly! -241.69616215547558,-97.5,222.73373216719733
-[21:11:01] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:11:33] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:11:33] [Server thread/INFO]: eXstaSy_HeRo7 fell from a high place
-[21:11:38] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:11:46] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:11:46] [Server thread/INFO]: eXstaSy_HeRo7 fell from a high place
-[21:11:51] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:12:07] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:12:07] [Server thread/WARN]: SooS_Joe moved too quickly! 3.7937244515254918,51.418261923761115,0.021555166292063888
-[21:12:07] [Server thread/WARN]: SooS_Joe moved too quickly! 3.7937244515254918,51.418261923761115,0.021555166292063888
-[21:12:07] [Server thread/WARN]: SooS_Joe moved too quickly! 3.7937244515254918,51.418261923761115,0.021555166292063888
-[21:12:07] [Server thread/WARN]: SooS_Joe moved too quickly! 3.7937244515254918,51.418261923761115,0.021555166292063888
-[21:12:07] [Server thread/WARN]: SooS_Joe moved too quickly! 3.7937244515254918,51.418261923761115,0.021555166292063888
-[21:12:07] [Server thread/INFO]: SooS_Joe fell from a high place
-[21:12:11] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:16:58] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Creative Mode]
-[21:17:08] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
-[21:18:30] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Creative Mode]
-[21:19:15] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
-[21:19:19] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Creative Mode]
-[21:19:26] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:19:26] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -0.2047487294509267,66.16962275514162,6.296664395065315
-[21:19:28] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
-[21:21:19] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:21:19] [Server thread/WARN]: SooS_Joe moved too quickly! 4.492175416958901,54.57921658531626,5.151153979503793
-[21:21:19] [Server thread/INFO]: SooS_Joe fell from a high place
-[21:21:25] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:23:17] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:24:02] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:25:16] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:25:19] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:25:36] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:25:41] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:25:58] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:26:27] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:26:31] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:26:43] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:26:45] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:27:00] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:27:00] [Server thread/WARN]: SooS_Joe moved too quickly! -0.14975919376476554,12.0,0.7623570175374397
-[21:27:41] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:29:30] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:29:30] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! 4.919783114808922,40.0,14.246504830165332
-[21:29:31] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! 4.919783114808922,40.0,14.246504830165332
-[21:33:09] [Server thread/INFO]: SooS_Joe fell from a high place
-[21:33:14] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:36:33] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:36:33] [Server thread/WARN]: SooS_Joe moved too quickly! -0.46806085587485313,61.70479637807971,0.37238691189061246
-[21:36:33] [Server thread/WARN]: SooS_Joe moved too quickly! -0.46806085587485313,61.70479637807971,0.37238691189061246
-[21:36:33] [Server thread/WARN]: SooS_Joe moved too quickly! -0.46806085587485313,61.70479637807971,0.37238691189061246
-[21:36:33] [Server thread/INFO]: SooS_Joe fell from a high place
-[21:36:40] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:38:25] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:38:25] [Server thread/WARN]: SooS_Joe moved too quickly! -0.2738389452076433,30.29663376881598,1.1418137523643157
-[21:38:25] [Server thread/WARN]: SooS_Joe moved too quickly! -0.2738389452076433,30.29663376881598,1.1418137523643157
-[21:38:25] [Server thread/WARN]: SooS_Joe moved too quickly! -0.2738389452076433,30.29663376881598,1.1418137523643157
-[21:38:25] [Server thread/WARN]: SooS_Joe moved too quickly! -0.2738389452076433,30.29663376881598,1.1418137523643157
-[21:38:25] [Server thread/INFO]: SooS_Joe fell from a high place
-[21:38:31] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:41:35] [Server thread/INFO]: SooS_Joe fell from a high place
-[21:43:23] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:44:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=251, y=103, z=16} gt{x=250, y=100, z=16}
-[21:44:29] [Server thread/INFO]: SooS_Joe fell from a high place
-[21:44:37] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:44:46] [Server thread/INFO]: SooS_Joe fell from a high place
-[21:44:50] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:46:49] [Server thread/INFO]: SooS_Joe was slain by eXstaSy_HeRo7
-[21:46:53] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:48:18] [Server thread/INFO]: SooS_Joe was slain by Enderman
-[21:48:23] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:49:12] [Server thread/INFO]: SooS_Joe was slain by Enderman
-[21:49:17] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:50:41] [Server thread/INFO]: SooS_Joe was slain by eXstaSy_HeRo7
-[21:50:46] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:51:48] [Server thread/INFO]: SooS_Joe was slain by Enderman
-[21:51:54] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[21:54:08] [Server thread/INFO]: SooS_Joe was slain by Enderman
-[21:56:44] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[21:57:37] [Server thread/INFO]: SooS_Joe hit the ground too hard
-[21:59:01] [Server thread/INFO]: SooS_Joe lost connection: Disconnected
-[21:59:01] [Server thread/INFO]: SooS_Joe left the game
-[22:01:50] [Server thread/INFO]: eXstaSy_HeRo7 lost connection: Disconnected
-[22:01:50] [Server thread/INFO]: eXstaSy_HeRo7 left the game
-[22:02:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:02:49] [Server thread/INFO]: save all<--[HERE]
-[22:02:52] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:02:52] [Server thread/INFO]: Saved the game
-[22:02:58] [Server thread/INFO]: Stopping the server
-[22:02:58] [Server thread/INFO]: Stopping server
-[22:02:58] [Server thread/INFO]: Saving players
-[22:02:58] [Server thread/INFO]: Saving worlds
-[22:02:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:03:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:03:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:03:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:03:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:48:09] [ServerMain/INFO]: Building unoptimized datafixer
+[09:48:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:48:13] [ServerMain/INFO]: Loaded 7 recipes
+[09:48:14] [ServerMain/INFO]: Loaded 1179 advancements
+[09:48:16] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[09:48:16] [Server thread/INFO]: Loading properties
+[09:48:16] [Server thread/INFO]: Default game type: SURVIVAL
+[09:48:16] [Server thread/INFO]: Generating keypair
+[09:48:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:48:16] [Server thread/INFO]: Using default channel type
+[09:48:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:48:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:48:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:48:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:48:16] [Server thread/INFO]: Preparing level "world"
+[09:48:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[09:48:22] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[09:48:23] [Worker-Main-2/INFO]: Preparing spawn area: 79%
+[09:48:23] [Server thread/INFO]: Time elapsed: 6731 ms
+[09:48:23] [Server thread/INFO]: Done (7.043s)! For help, type "help"
+[10:14:13] [Server thread/INFO]: eXstaSy_HeRo7[/192.168.1.14:58852] logged in with entity id 83 at (2109.186990913085, 91.0, 1085.0773396982268)
+[10:14:13] [Server thread/INFO]: eXstaSy_HeRo7 joined the game
+[10:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3153ms or 63 ticks behind
+[10:31:46] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1312.500000, 62.000000, -255.500000]
+[10:39:52] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1664.500000, 62.000000, 400.500000]
+[10:49:26] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1664.500000, 73.000000, 400.500000]
+[10:49:26] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -9.706500949627753,0.0,-15.778453061168648
+[10:49:26] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -9.706500949627753,0.0,-15.778453061168648
+[10:49:26] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -9.706500949627753,0.0,-15.778453061168648
+[10:55:25] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 320.500000, 59.000000, 2288.500000]
+[10:55:25] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -745.7031998844088,0.0,652.8000000119209
+[11:11:45] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
+[11:16:54] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -1768.3785291637666,54.46415937495544,-1307.5240991839235
+[11:16:54] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -1768.3785291637666,54.46415937495544,-1307.5240991839235
+[11:16:54] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -1768.3785291637666,54.46415937495544,-1307.5240991839235
+[11:16:55] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -1768.3785291637666,54.46415937495544,-1307.5240991839235
+[11:20:32] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
+[11:33:59] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
+[11:50:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=195, y=13, z=249} gt{x=204, y=13, z=253}
+[11:50:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=195, y=13, z=249} gt{x=204, y=13, z=253}
+[11:50:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=195, y=13, z=249} gt{x=204, y=13, z=253}
+[11:50:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=195, y=13, z=249} gt{x=204, y=13, z=253}
+[11:55:08] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Creative Mode]
+[11:55:22] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
+[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
+[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
+[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
+[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
+[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
+[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
+[12:10:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=494, y=16, z=252} gt{x=502, y=14, z=252}
+[12:10:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=494, y=16, z=252} gt{x=502, y=14, z=252}
+[12:11:15] [Server thread/INFO]: eXstaSy_HeRo7 lost connection: Disconnected
+[12:11:15] [Server thread/INFO]: eXstaSy_HeRo7 left the game
+[12:11:28] [Server thread/INFO]: Saving the game (this may take a moment!)
+[12:11:28] [Server thread/INFO]: Saved the game
+[12:11:31] [Server thread/INFO]: Stopping the server
+[12:11:31] [Server thread/INFO]: Stopping server
+[12:11:31] [Server thread/INFO]: Saving players
+[12:11:31] [Server thread/INFO]: Saving worlds
+[12:11:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:11:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:11:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:11:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:11:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:11:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:11:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
