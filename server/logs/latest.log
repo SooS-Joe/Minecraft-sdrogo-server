@@ -1,79 +1,56 @@
-[09:48:09] [ServerMain/INFO]: Building unoptimized datafixer
-[09:48:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:48:13] [ServerMain/INFO]: Loaded 7 recipes
-[09:48:14] [ServerMain/INFO]: Loaded 1179 advancements
-[09:48:16] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[09:48:16] [Server thread/INFO]: Loading properties
-[09:48:16] [Server thread/INFO]: Default game type: SURVIVAL
-[09:48:16] [Server thread/INFO]: Generating keypair
-[09:48:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:48:16] [Server thread/INFO]: Using default channel type
-[09:48:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:48:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:48:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:48:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:48:16] [Server thread/INFO]: Preparing level "world"
-[09:48:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:48:22] [Worker-Main-6/INFO]: Preparing spawn area: 11%
-[09:48:23] [Worker-Main-2/INFO]: Preparing spawn area: 79%
-[09:48:23] [Server thread/INFO]: Time elapsed: 6731 ms
-[09:48:23] [Server thread/INFO]: Done (7.043s)! For help, type "help"
-[10:14:13] [Server thread/INFO]: eXstaSy_HeRo7[/192.168.1.14:58852] logged in with entity id 83 at (2109.186990913085, 91.0, 1085.0773396982268)
-[10:14:13] [Server thread/INFO]: eXstaSy_HeRo7 joined the game
-[10:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3153ms or 63 ticks behind
-[10:31:46] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1312.500000, 62.000000, -255.500000]
-[10:39:52] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1664.500000, 62.000000, 400.500000]
-[10:49:26] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 1664.500000, 73.000000, 400.500000]
-[10:49:26] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -9.706500949627753,0.0,-15.778453061168648
-[10:49:26] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -9.706500949627753,0.0,-15.778453061168648
-[10:49:26] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -9.706500949627753,0.0,-15.778453061168648
-[10:55:25] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to 320.500000, 59.000000, 2288.500000]
-[10:55:25] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -745.7031998844088,0.0,652.8000000119209
-[11:11:45] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
-[11:16:54] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -1768.3785291637666,54.46415937495544,-1307.5240991839235
-[11:16:54] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -1768.3785291637666,54.46415937495544,-1307.5240991839235
-[11:16:54] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -1768.3785291637666,54.46415937495544,-1307.5240991839235
-[11:16:55] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -1768.3785291637666,54.46415937495544,-1307.5240991839235
-[11:20:32] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
-[11:33:59] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
-[11:50:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=195, y=13, z=249} gt{x=204, y=13, z=253}
-[11:50:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=195, y=13, z=249} gt{x=204, y=13, z=253}
-[11:50:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=195, y=13, z=249} gt{x=204, y=13, z=253}
-[11:50:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=195, y=13, z=249} gt{x=204, y=13, z=253}
-[11:55:08] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Creative Mode]
-[11:55:22] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
-[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
-[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
-[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
-[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
-[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
-[11:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=278, y=15, z=241} gt{x=274, y=14, z=247}
-[12:10:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=494, y=16, z=252} gt{x=502, y=14, z=252}
-[12:10:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=494, y=16, z=252} gt{x=502, y=14, z=252}
-[12:11:15] [Server thread/INFO]: eXstaSy_HeRo7 lost connection: Disconnected
-[12:11:15] [Server thread/INFO]: eXstaSy_HeRo7 left the game
-[12:11:28] [Server thread/INFO]: Saving the game (this may take a moment!)
-[12:11:28] [Server thread/INFO]: Saved the game
-[12:11:31] [Server thread/INFO]: Stopping the server
-[12:11:31] [Server thread/INFO]: Stopping server
-[12:11:31] [Server thread/INFO]: Saving players
-[12:11:31] [Server thread/INFO]: Saving worlds
-[12:11:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:11:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:11:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:11:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:11:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:11:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:11:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:24:32] [ServerMain/INFO]: Building unoptimized datafixer
+[15:24:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:24:36] [ServerMain/INFO]: Loaded 7 recipes
+[15:24:36] [ServerMain/INFO]: Loaded 1179 advancements
+[15:24:38] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[15:24:38] [Server thread/INFO]: Loading properties
+[15:24:38] [Server thread/INFO]: Default game type: SURVIVAL
+[15:24:38] [Server thread/INFO]: Generating keypair
+[15:24:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:24:38] [Server thread/INFO]: Using default channel type
+[15:24:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:24:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:24:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:24:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:24:39] [Server thread/INFO]: Preparing level "world"
+[15:24:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:24:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:24:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:24:46] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:24:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:24:47] [Worker-Main-5/INFO]: Preparing spawn area: 26%
+[15:24:47] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[15:24:48] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[15:24:48] [Server thread/INFO]: Time elapsed: 9285 ms
+[15:24:48] [Server thread/INFO]: Done (9.563s)! For help, type "help"
+[15:32:34] [Server thread/INFO]: eXstaSy_HeRo7[/192.168.1.14:53215] logged in with entity id 83 at (509.3294663051094, 15.0, 245.04039264709266)
+[15:32:34] [Server thread/INFO]: eXstaSy_HeRo7 joined the game
+[15:32:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2880ms or 57 ticks behind
+[15:32:56] [Server thread/INFO]: eXstaSy_HeRo7 lost connection: Disconnected
+[15:32:56] [Server thread/INFO]: eXstaSy_HeRo7 left the game
+[15:35:10] [Server thread/INFO]: eXstaSy_HeRo7[/192.168.1.14:53238] logged in with entity id 554 at (509.3294663051094, 15.0, 245.04039264709266)
+[15:35:10] [Server thread/INFO]: eXstaSy_HeRo7 joined the game
+[15:35:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=499, y=20, z=246} gt{x=498, y=17, z=246}
+[15:38:50] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
+[15:38:50] [Server thread/INFO]: [eXstaSy_HeRo7: Killed eXstaSy_HeRo7]
+[15:57:29] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.39935277838185357
+[15:57:29] [Server thread/WARN]: Horse (vehicle of eXstaSy_HeRo7) moved wrongly! 0.34271151860548343
+[15:59:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2458, y=62, z=1156} gt{x=2493, y=64, z=1141}
+[15:59:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2458, y=62, z=1156} gt{x=2493, y=64, z=1141}
+[16:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2654, y=75, z=1402} gt{x=2687, y=78, z=1407}
+[16:23:24] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Creative Mode]
+[16:23:35] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
+[16:32:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2677, y=72, z=1407} gt{x=2678, y=77, z=1405}
+[16:32:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2678, y=76, z=1405} gt{x=2678, y=77, z=1405}
