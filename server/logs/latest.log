@@ -1,272 +1,301 @@
-[00:00:09] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Trident]
-[00:00:11] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Trident]
-[00:00:12] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Trident]
-[00:00:14] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Trident]
-[00:00:15] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Trident]
-[00:00:15] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Trident]
-[00:02:04] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Tadpole]
-[00:02:18] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Trader Llama]
-[00:02:19] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Trader Llama]
-[00:02:23] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Trader Llama]
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2094, y=85, z=1080} gt{x=266, y=57, z=146}
-[00:04:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=266, y=60, z=145} gt{x=263, y=61, z=145}
-[00:04:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=266, y=60, z=145} gt{x=263, y=61, z=145}
-[00:04:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=266, y=60, z=145} gt{x=263, y=61, z=145}
-[00:04:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=266, y=60, z=145} gt{x=263, y=61, z=145}
-[00:04:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=266, y=60, z=145} gt{x=263, y=61, z=145}
-[00:04:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=266, y=60, z=145} gt{x=263, y=61, z=145}
-[00:04:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=260, y=63, z=145} gt{x=260, y=62, z=145}
-[00:04:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=260, y=63, z=145} gt{x=260, y=62, z=145}
-[00:04:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=260, y=63, z=145} gt{x=260, y=62, z=145}
-[00:04:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=259, y=62, z=145} gt{x=260, y=61, z=145}
-[00:04:20] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=259, y=62, z=145} gt{x=260, y=61, z=145}
-[00:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=259, y=62, z=145} gt{x=260, y=61, z=145}
-[00:04:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=62, z=145} gt{x=257, y=66, z=143}
-[00:04:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=62, z=145} gt{x=257, y=66, z=143}
-[00:04:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=62, z=145} gt{x=257, y=66, z=143}
-[00:04:23] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=62, z=145} gt{x=257, y=66, z=143}
-[00:04:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=68, z=140} gt{x=257, y=67, z=140}
-[00:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=69, z=141} gt{x=257, y=70, z=140}
-[00:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=69, z=141} gt{x=257, y=70, z=140}
-[00:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=69, z=141} gt{x=257, y=70, z=140}
-[00:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=69, z=141} gt{x=257, y=70, z=140}
-[00:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=69, z=141} gt{x=257, y=70, z=140}
-[00:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=69, z=141} gt{x=257, y=70, z=140}
-[00:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=69, z=141} gt{x=257, y=70, z=140}
-[00:04:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=69, z=141} gt{x=257, y=70, z=140}
-[00:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=71, z=136} gt{x=257, y=68, z=139}
-[00:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=71, z=136} gt{x=257, y=72, z=137}
-[00:04:28] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=257, y=71, z=136} gt{x=257, y=72, z=137}
-[00:04:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2089, y=84, z=1065} gt{x=263, y=66, z=146}
-[00:04:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2089, y=84, z=1065} gt{x=263, y=66, z=146}
-[00:04:29] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2089, y=84, z=1065} gt{x=263, y=66, z=146}
-[00:04:43] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[00:04:43] [Server thread/WARN]: SooS_Joe moved too quickly! -19.60020921152534,15.024424088213692,-3.4910733917747336
-[00:04:43] [Server thread/WARN]: SooS_Joe moved too quickly! -19.60020921152534,15.024424088213692,-3.4910733917747336
-[00:04:43] [Server thread/WARN]: SooS_Joe moved too quickly! -19.60020921152534,15.024424088213692,-3.4910733917747336
-[00:06:13] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=252, y=122, z=85} gt{x=252, y=122, z=86}
-[00:06:42] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:07:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=235, y=122, z=97} gt{x=235, y=123, z=97}
-[00:08:41] [Server thread/INFO]: SooS_Joe has made the advancement [Withering Heights]
-[00:08:41] [Server thread/INFO]: eXstaSy_HeRo7 has made the advancement [Withering Heights]
-[00:09:24] [Server thread/INFO]: SooS_Joe was slain by eXstaSy_HeRo7
-[00:09:30] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
-[00:14:36] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Allay]
-[00:15:56] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:17:01] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:18:37] [Server thread/INFO]: SooS_Joe has made the advancement [Bring Home the Beacon]
-[00:18:37] [Server thread/INFO]: eXstaSy_HeRo7 has made the advancement [Bring Home the Beacon]
-[00:22:12] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
-[00:22:12] [Server thread/INFO]: [eXstaSy_HeRo7: Killed eXstaSy_HeRo7]
-[00:22:25] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[00:22:25] [Server thread/WARN]: SooS_Joe moved too quickly! 17.029448028180013,17.121296840539202,-2.741191970480486
-[00:22:25] [Server thread/WARN]: SooS_Joe moved too quickly! 17.029448028180013,17.121296840539202,-2.741191970480486
-[00:23:10] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
-[00:23:10] [Server thread/INFO]: [eXstaSy_HeRo7: Killed eXstaSy_HeRo7]
-[00:25:08] [Server thread/INFO]: SooS_Joe was slain by eXstaSy_HeRo7
-[00:28:00] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[00:28:00] [Server thread/WARN]: SooS_Joe moved too quickly! -152.8570721130177,20.0,1.517077782526485
-[00:28:00] [Server thread/WARN]: SooS_Joe moved too quickly! -152.8570721130177,20.0,1.517077782526485
-[00:28:27] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:29:19] [Server thread/INFO]: eXstaSy_HeRo7 was shot by SooS_Joe
-[00:29:36] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[00:29:36] [Server thread/WARN]: SooS_Joe moved too quickly! -1.0565855413506142,4.0,66.67165358518378
-[00:29:36] [Server thread/WARN]: SooS_Joe moved too quickly! -1.0565855413506142,4.0,66.67165358518378
-[00:29:36] [Server thread/WARN]: SooS_Joe moved too quickly! -1.0565855413506142,4.0,66.67165358518378
-[00:29:36] [Server thread/WARN]: SooS_Joe moved too quickly! -1.0565855413506142,4.0,66.67165358518378
-[00:29:36] [Server thread/WARN]: SooS_Joe moved too quickly! -1.0565855413506142,4.0,66.67165358518378
-[00:30:27] [Server thread/INFO]: eXstaSy_HeRo7 was slain by SooS_Joe
-[00:30:36] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:36] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:37] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:37] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:38] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:38] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:39] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:39] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:40] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:40] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:40] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:41] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:41] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:42] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:42] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:43] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:43] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:30:44] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bee]
-[00:31:16] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:17] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:21] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:22] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:22] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:23] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:23] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:24] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:24] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:25] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:31] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:32] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:32] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:32] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:33] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:33] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:34] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:34] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:31:34] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Goat]
-[00:32:03] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Lightning Bolt]
-[00:32:13] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Lightning Bolt]
-[00:32:42] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Lightning Bolt]
-[00:33:29] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Lightning Bolt]
-[00:33:33] [Server thread/INFO]: SooS_Joe burned to death
-[00:33:53] [Server thread/INFO]: [SooS_Joe: Killed 312 entities]
-[00:34:18] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported SooS_Joe to eXstaSy_HeRo7]
-[00:34:18] [Server thread/WARN]: SooS_Joe moved too quickly! -22.49584981893986,12.81707689889788,34.025003424192846
-[00:34:18] [Server thread/WARN]: SooS_Joe moved too quickly! -22.49584981893986,12.81707689889788,34.025003424192846
-[00:34:18] [Server thread/WARN]: SooS_Joe moved too quickly! -22.49584981893986,12.81707689889788,34.025003424192846
-[00:34:18] [Server thread/WARN]: SooS_Joe moved too quickly! -22.49584981893986,12.81707689889788,34.025003424192846
-[00:34:18] [Server thread/WARN]: SooS_Joe moved too quickly! -22.49584981893986,12.81707689889788,34.025003424192846
-[00:34:18] [Server thread/WARN]: SooS_Joe moved too quickly! -22.49584981893986,12.81707689889788,34.025003424192846
-[00:34:19] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Lightning Bolt]
-[00:34:20] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Lightning Bolt]
-[00:34:21] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Lightning Bolt]
-[00:34:27] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Lightning Bolt]
-[00:34:27] [Server thread/INFO]: eXstaSy_HeRo7 was struck by lightning
-[00:34:33] [Server thread/INFO]: SooS_Joe burned to death
-[00:34:53] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:34:54] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:34:54] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:34:55] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:34:55] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:34:55] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:34:56] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:34:56] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:34:57] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:34:57] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:04] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:04] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:05] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:05] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:06] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:06] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:06] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:07] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:07] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:07] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:08] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:08] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:08] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
-[00:35:08] [Server thread/INFO]: [SooS_Joe: Made eXstaSy_HeRo7 no longer a server operator]
-[00:35:09] [Server thread/INFO]: eXstaSy_HeRo7 lost connection: Kicked for spamming
-[00:35:09] [Server thread/INFO]: eXstaSy_HeRo7 left the game
-[00:35:12] [Server thread/INFO]: eXstaSy_HeRo7[/79.36.192.75:64596] logged in with entity id 67047 at (2088.3868342405826, 87.125, 1092.655782419592)
-[00:35:12] [Server thread/INFO]: eXstaSy_HeRo7 joined the game
-[00:36:36] [Server thread/INFO]: eXstaSy_HeRo7 was burnt to a crisp whilst fighting SooS_Joe
-[00:36:41] [Server thread/INFO]: SooS_Joe was shot by eXstaSy_HeRo7
-[00:39:57] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[00:39:57] [Server thread/WARN]: SooS_Joe moved too quickly! 525.6166580586023,-8.611737607312826,318.56706550046397
-[00:39:57] [Server thread/WARN]: SooS_Joe moved too quickly! 525.6166580586023,-8.611737607312826,318.56706550046397
-[00:39:57] [Server thread/WARN]: SooS_Joe moved too quickly! 525.6166580586023,-8.611737607312826,318.56706550046397
-[00:39:57] [Server thread/WARN]: SooS_Joe moved too quickly! 525.6166580586023,-8.611737607312826,318.56706550046397
-[00:39:57] [Server thread/WARN]: SooS_Joe moved too quickly! 525.6166580586023,-8.611737607312826,318.56706550046397
-[00:40:02] [Server thread/INFO]: [SooS_Joe: Made eXstaSy_HeRo7 a server operator]
-[00:40:30] [Server thread/INFO]: SooS_Joe was slain by eXstaSy_HeRo7
-[00:40:33] [Server thread/INFO]: SooS_Joe has reached the goal [Beaconator]
-[00:46:45] [Server thread/INFO]: SooS_Joe has made the advancement [Voluntary Exile]
-[00:51:59] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2639, y=72, z=1376} gt{x=2638, y=71, z=1375}
-[00:53:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2731, y=74, z=1384} gt{x=2732, y=74, z=1382}
-[00:53:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2730, y=74, z=1379} gt{x=2729, y=73, z=1379}
-[00:53:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2730, y=74, z=1379} gt{x=2729, y=73, z=1379}
-[00:53:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2730, y=74, z=1379} gt{x=2729, y=73, z=1379}
-[00:53:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2730, y=74, z=1379} gt{x=2729, y=73, z=1379}
-[00:55:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2728, y=84, z=1407} gt{x=2729, y=82, z=1414}
-[00:55:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2728, y=84, z=1407} gt{x=2729, y=82, z=1414}
-[00:57:29] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[00:57:29] [Server thread/WARN]: SooS_Joe moved too quickly! 366.79646047728966,13.0,408.6875931657613
-[00:57:29] [Server thread/WARN]: SooS_Joe moved too quickly! 366.79646047728966,13.0,408.6875931657613
-[01:00:42] [Server thread/INFO]: SooS_Joe was slain by Vindicator
-[01:00:44] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[01:00:44] [Server thread/WARN]: SooS_Joe moved too quickly! 571.2356222324038,-24.0,385.08087701273166
-[01:00:44] [Server thread/WARN]: SooS_Joe moved too quickly! 571.2356222324038,-24.0,385.08087701273166
-[01:00:44] [Server thread/WARN]: SooS_Joe moved too quickly! 571.2356222324038,-24.0,385.08087701273166
-[01:00:44] [Server thread/WARN]: SooS_Joe moved too quickly! 571.2356222324038,-24.0,385.08087701273166
-[01:05:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2648, y=74, z=1419} gt{x=2648, y=74, z=1418}
-[01:05:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2641, y=74, z=1417} gt{x=2642, y=73, z=1417}
-[01:05:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2641, y=74, z=1417} gt{x=2642, y=73, z=1417}
-[01:05:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2641, y=74, z=1417} gt{x=2642, y=73, z=1417}
-[01:05:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2641, y=74, z=1417} gt{x=2642, y=73, z=1417}
-[01:05:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2641, y=74, z=1417} gt{x=2642, y=73, z=1417}
-[01:05:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2641, y=74, z=1417} gt{x=2642, y=73, z=1417}
-[01:05:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2641, y=74, z=1417} gt{x=2642, y=73, z=1417}
-[01:10:10] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
-[01:10:10] [Server thread/WARN]: SooS_Joe moved too quickly! -35.516746305418565,33.0,-16.04941868922583
-[01:10:10] [Server thread/WARN]: SooS_Joe moved too quickly! -35.516746305418565,33.0,-16.04941868922583
-[01:10:10] [Server thread/WARN]: SooS_Joe moved too quickly! -35.516746305418565,33.0,-16.04941868922583
-[01:10:10] [Server thread/WARN]: SooS_Joe moved too quickly! -35.516746305418565,33.0,-16.04941868922583
-[01:10:10] [Server thread/WARN]: SooS_Joe moved too quickly! -35.516746305418565,33.0,-16.04941868922583
-[01:11:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2702, y=62, z=1351} gt{x=2703, y=61, z=1353}
-[01:11:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2702, y=62, z=1351} gt{x=2703, y=61, z=1353}
-[01:11:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2702, y=62, z=1351} gt{x=2703, y=61, z=1353}
-[01:11:42] [Server thread/INFO]: SooS_Joe has completed the challenge [Hero of the Village]
-[01:19:00] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2664, y=69, z=1357} gt{x=2663, y=69, z=1356}
-[01:20:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2699, y=64, z=1364} gt{x=2698, y=63, z=1364}
-[01:20:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2699, y=64, z=1364} gt{x=2698, y=63, z=1364}
-[01:20:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2699, y=64, z=1364} gt{x=2698, y=63, z=1364}
-[01:20:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2699, y=64, z=1364} gt{x=2698, y=63, z=1364}
-[01:20:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2699, y=64, z=1364} gt{x=2698, y=63, z=1364}
-[01:20:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2699, y=64, z=1364} gt{x=2698, y=63, z=1364}
-[01:21:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2710, y=76, z=1392} gt{x=2712, y=75, z=1393}
-[01:21:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2710, y=76, z=1392} gt{x=2712, y=75, z=1393}
-[01:21:16] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2710, y=76, z=1392} gt{x=2712, y=75, z=1393}
-[01:22:57] [Server thread/INFO]: eXstaSy_HeRo7 lost connection: Disconnected
-[01:22:57] [Server thread/INFO]: eXstaSy_HeRo7 left the game
-[01:23:02] [Server thread/INFO]: SooS_Joe lost connection: Disconnected
-[01:23:02] [Server thread/INFO]: SooS_Joe left the game
-[01:44:52] [Server thread/INFO]: Saving the game (this may take a moment!)
-[01:44:52] [Server thread/INFO]: Saved the game
-[01:44:58] [Server thread/INFO]: Stopping the server
-[01:44:58] [Server thread/INFO]: Stopping server
-[01:44:58] [Server thread/INFO]: Saving players
-[01:44:58] [Server thread/INFO]: Saving worlds
-[01:44:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:45:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:45:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:45:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:45:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:45:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:45:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:32:41] [ServerMain/INFO]: Building unoptimized datafixer
+[19:32:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:32:43] [ServerMain/INFO]: Loaded 7 recipes
+[19:32:44] [ServerMain/INFO]: Loaded 1179 advancements
+[19:32:46] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[19:32:46] [Server thread/INFO]: Loading properties
+[19:32:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:32:46] [Server thread/INFO]: Generating keypair
+[19:32:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:32:46] [Server thread/INFO]: Using default channel type
+[19:32:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:32:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:32:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:32:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:32:46] [Server thread/INFO]: Preparing level "world"
+[19:32:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:32:49] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:32:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:32:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:32:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:32:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:32:49] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:32:49] [Worker-Main-5/INFO]: Preparing spawn area: 62%
+[19:32:49] [Server thread/INFO]: Time elapsed: 3200 ms
+[19:32:49] [Server thread/INFO]: Done (3.461s)! For help, type "help"
+[20:06:59] [Server thread/INFO]: SooS_Joe[/192.168.1.43:55240] logged in with entity id 132 at (2163.621554863087, 80.25273252515386, 1078.327493797982)
+[20:06:59] [Server thread/INFO]: SooS_Joe joined the game
+[20:08:15] [Server thread/INFO]: eXstaSy_HeRo7[/79.36.192.75:51085] logged in with entity id 447 at (2703.300000011921, 50.0, 1408.6137787511173)
+[20:08:15] [Server thread/INFO]: eXstaSy_HeRo7 joined the game
+[20:11:39] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
+[20:11:56] [Server thread/INFO]: SooS_Joe was slain by Enderman
+[20:13:06] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
+[20:14:52] [Server thread/INFO]: SooS_Joe was slain by Enderman
+[20:14:57] [Server thread/INFO]: [SooS_Joe: Teleported SooS_Joe to eXstaSy_HeRo7]
+[20:17:46] [Server thread/INFO]: SooS_Joe was slain by eXstaSy_HeRo7
+[20:20:53] [Server thread/INFO]: [SooS_Joe: Set the time to 18000]
+[20:21:04] [Server thread/INFO]: [SooS_Joe: Set the time to 1000]
+[20:21:09] [Server thread/INFO]: [SooS_Joe: Set the time to 6000]
+[20:21:19] [Server thread/INFO]: [SooS_Joe: Set the time to 13000]
+[20:21:28] [Server thread/INFO]: [SooS_Joe: Set the time to 18000]
+[20:21:32] [Server thread/INFO]: [SooS_Joe: Set the time to 1000]
+[20:21:39] [Server thread/INFO]: [SooS_Joe: Set the time to 6000]
+[20:21:46] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Lightning Bolt]
+[20:21:47] [Server thread/INFO]: [SooS_Joe: Set the time to 13000]
+[20:21:51] [Server thread/INFO]: [SooS_Joe: Set the time to 18000]
+[20:27:34] [Server thread/INFO]: [SooS_Joe: Set eXstaSy_HeRo7's game mode to Adventure Mode]
+[20:27:48] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Creeper]
+[20:28:07] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
+[20:28:41] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Creeper]
+[20:30:05] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Creative Mode]
+[20:30:25] [Server thread/INFO]: [eXstaSy_HeRo7: Set own game mode to Survival Mode]
+[20:34:14] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
+[20:34:14] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -95.94772689112779,23.0,-9.146933059401135
+[20:34:14] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -95.94772689112779,23.0,-9.146933059401135
+[20:37:14] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
+[20:37:14] [Server thread/WARN]: eXstaSy_HeRo7 moved too quickly! -158.08915448234848,-32.02719695361152,-82.68351307462183
+[20:40:21] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
+[20:42:51] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Creeper]
+[20:42:57] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Creeper]
+[20:42:58] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Creeper]
+[20:42:58] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Creeper]
+[20:43:12] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:43:21] [Server thread/INFO]: [SooS_Joe: Made eXstaSy_HeRo7 no longer a server operator]
+[20:46:08] [Server thread/INFO]: SooS_Joe was shot by eXstaSy_HeRo7
+[20:51:58] [Server thread/INFO]: [SooS_Joe: Made eXstaSy_HeRo7 a server operator]
+[20:52:13] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:52:14] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:52:14] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:52:14] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:52:15] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:54:35] [Server thread/INFO]: SooS_Joe was burnt to a crisp whilst fighting eXstaSy_HeRo7
+[20:55:41] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:42] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:43] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:43] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:44] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:44] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:44] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:45] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:45] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:46] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:46] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:47] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:47] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:47] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:48] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:48] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:48] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:48] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:49] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:49] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:49] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:50] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:50] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:50] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:51] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:51] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:51] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:51] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:52] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:52] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:52] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:53] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[20:55:53] [Server thread/INFO]: eXstaSy_HeRo7 was squished too much
+[20:56:23] [Server thread/INFO]: eXstaSy_HeRo7 was slain by SooS_Joe
+[20:57:45] [Server thread/INFO]: SooS_Joe was shot by eXstaSy_HeRo7
+[21:00:03] [Server thread/INFO]: SooS_Joe was shot by Skeleton
+[21:00:12] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
+[21:00:13] [Server thread/INFO]: [eXstaSy_HeRo7: Teleported eXstaSy_HeRo7 to SooS_Joe]
+[21:00:16] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:16] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:16] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:16] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:17] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:17] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:17] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:17] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:18] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:18] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:18] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:19] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:19] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:19] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:19] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:20] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:20] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:22] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:23] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:23] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:23] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:24] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:24] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:24] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:25] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:25] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:25] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:26] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:26] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:26] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:26] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:27] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:27] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:27] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:28] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:28] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:29] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:29] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:00:29] [Server thread/INFO]: eXstaSy_HeRo7 was squished too much
+[21:00:55] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:00:56] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:00:56] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:00:56] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:00:57] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:00:57] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:00:57] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:00:58] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:00:58] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:01:27] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Thrown Egg]
+[21:01:28] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Thrown Egg]
+[21:01:29] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Thrown Egg]
+[21:01:36] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:37] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:37] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:37] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:38] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:38] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:38] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:38] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:39] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:39] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:40] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:40] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:40] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:41] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:41] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:41] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:42] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:42] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:42] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:43] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:43] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:43] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:43] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:44] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:44] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:44] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:45] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:45] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:45] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:46] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:46] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:46] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:46] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:47] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:47] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:47] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:48] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:48] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:48] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:49] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:49] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:49] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:50] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:50] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:53] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:54] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:54] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:54] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:55] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:55] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:55] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:56] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:56] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:56] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:57] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:57] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:58] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:58] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:58] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:59] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:59] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:01:59] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:00] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:00] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:01] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:01] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:02] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:02] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:03] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:03] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:04] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:04] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:04] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:05] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:05] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:06] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:02:08] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:09] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:09] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:09] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:10] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:10] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:10] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:11] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:11] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:11] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:12] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:12] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:12] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:13] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:17] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:20] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Boat]
+[21:02:20] [Server thread/INFO]: SooS_Joe fell out of the world
+[21:02:20] [Server thread/INFO]: eXstaSy_HeRo7 fell out of the world
+[21:02:20] [Server thread/INFO]: [SooS_Joe: Killed 2 entities]
+[21:02:22] [Server thread/WARN]: SooS_Joe moved too quickly! -13.44606033559603,-6.0,-18.332782212965185
+[21:03:02] [Server thread/INFO]: SooS_Joe fell out of the world
+[21:03:02] [Server thread/INFO]: [eXstaSy_HeRo7: Killed SooS_Joe]
+[21:03:33] [Server thread/INFO]: [SooS_Joe: Killed 348 entities]
+[21:04:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2090, y=94, z=1084} gt{x=2095, y=97, z=1087}
+[21:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2084, y=90, z=1077} gt{x=2081, y=89, z=1074}
+[21:04:22] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=2088, y=94, z=1087} gt{x=2082, y=89, z=1074}
+[21:05:51] [Server thread/INFO]: eXstaSy_HeRo7 burned to death
+[21:05:58] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:05:59] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:05:59] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:05:59] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:05:59] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:06:00] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:06:00] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:06:00] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:06:00] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:06:01] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:06:01] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Donkey]
+[21:06:02] [Server thread/INFO]: [SooS_Joe: Killed 405 entities]
+[21:06:04] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:06:05] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:06:05] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:06:05] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:06:06] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:06:06] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:06:06] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:06:06] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:06:06] [Server thread/INFO]: [eXstaSy_HeRo7: Summoned new Bat]
+[21:06:11] [Server thread/INFO]: SooS_Joe lost connection: Disconnected
+[21:06:11] [Server thread/INFO]: SooS_Joe left the game
+[21:06:11] [Server thread/INFO]: eXstaSy_HeRo7 lost connection: Disconnected
+[21:06:11] [Server thread/INFO]: eXstaSy_HeRo7 left the game
+[21:54:39] [Server thread/INFO]: Saving the game (this may take a moment!)
+[21:54:39] [Server thread/INFO]: Saved the game
+[21:54:40] [Server thread/INFO]: Stopping the server
+[21:54:40] [Server thread/INFO]: Stopping server
+[21:54:40] [Server thread/INFO]: Saving players
+[21:54:40] [Server thread/INFO]: Saving worlds
+[21:54:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:54:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:54:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:54:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:54:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:54:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:54:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
